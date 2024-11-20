@@ -6,7 +6,7 @@ An [AssemblyScript](http://assemblyscript.org) example of using compiler transfo
 Instructions
 ------------
 
-* [JavaScript transform](./mytransform.js)<br />
+* [JavaScript transform](./mytransform.mjs)<br />
   An ES6 JavaScript transform. Recommended.
 
 See [package.json](./package.json) on how to utilize the transforms with `asc`.
